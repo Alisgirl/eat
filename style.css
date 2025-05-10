@@ -11,8 +11,8 @@ body{
     padding: 0;
 }
 
-header{background-color: #8A292B;
-    
+.header{
+    background-color: #8A292B;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -63,7 +63,7 @@ align-items: center;
 }
 
 .solo{
-    background-color: #FBD4A4;
+    background-color: #E3B47B;
     display: flex;
     justify-content: center;
     padding: 30px;
