@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+
+.cnt{
+    background-image: url(img/Venti\ Namecard\ 1.png);
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+}
+
+.header2{
+    height: 200px;
+    width: 40%;
+    border-radius: 50px;
+    background-image: url(img/Group\ 2\ \(1\).png);
+    background-size: cover;
+    background-position: center;
+    padding-left: 90px;
+    box-sizing: border-box;
+    padding-left: 180px;
+    padding-right: 40px;
+    color: #fff;
+}
+
+.h2{
+   font-size: 20px  ;
+}
+
+.bly{
+    background-color: #6B9794;
+    font-size: 50px;
+    padding: 20px 20px ;
+    border-radius: 20px;
+    color: #fff;
+    width: 150px;
+    height: 220px;
+}
+
+main{
+    padding-top: 50px;
+}
